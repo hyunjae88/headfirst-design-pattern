@@ -2,5 +2,5 @@
 #include <iostream>
 void MuteQuack::quack() const
 {
-	std::cout << "Á¶¿ë~" << std::endl;
+	std::cout << "Silence" << std::endl;
 }
