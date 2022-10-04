@@ -19,7 +19,7 @@ int main()
 
 	firebat1.introducing();
 	firebat1.attack();
-	firebat1.move();
+	firebat1.move();  
 	firebat1.showEnergy();
 
 	marine1.gotDamage(20);
